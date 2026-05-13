@@ -11,3 +11,9 @@ https://welcome-each-heron.anvil.app
 
 # 4-Quiz Stand
 https://quirky-general-quote.anvil.app
+
+# 5-RPG
+https://generous-deep-yard.anvil.app
+
+# 6-Lista
+https://salty-noteworthy-dibbler.anvil.app
